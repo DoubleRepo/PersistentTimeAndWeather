@@ -39,3 +39,8 @@ PTWS is a script made for Exile that allows time and weather to persist through 
 `ExileClient_system_snow_thread_update = "PTWS\ExileClient_system_snow_thread_update.sqf";`
 
 #### You are done!
+
+
+# License
+
+What license? no commercial usage or modifications without consent.
